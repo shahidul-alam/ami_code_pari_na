@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "338667712318",
+    "project_id": "ami-code-pari-na",
+    "storage_bucket": "ami-code-pari-na.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:338667712318:android:87ae7fb8590f202e4ac66f",
+        "android_client_info": {
+          "package_name": "com.example.ami_code_pari_na"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "338667712318-pd67afrk28t9d8fov2ps9p0o3kllsjkv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRPVFBmyCynrHL18u3ETTOAIER9AFClVo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "338667712318-pd67afrk28t9d8fov2ps9p0o3kllsjkv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
